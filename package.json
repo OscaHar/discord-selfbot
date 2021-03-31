@@ -12,7 +12,9 @@
     "discord.js": "^11.6.1",
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
-    "node-bash-title": "0.0.2"
+    "node-bash-title": "0.0.2",
+    "pokemon": "^2.0.2",
+    "string-similarity": "^4.0.4"
   },
   "devDependencies": {},
   "description": ""
